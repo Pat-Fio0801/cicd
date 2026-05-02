@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPO_URL = 'https://github.com/Pat-Fio0801/cicd.git'
-        GIT_CREDENTIALS_ID = 'github-pat'
+        GIT_CREDENTIALS_ID = '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'
         GIT_BRANCH = 'main'
     }
 
